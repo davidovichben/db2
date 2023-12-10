@@ -10,7 +10,7 @@
         "laravel/framework": "^10.10",
         "laravel/sanctum": "^3.3",
         "laravel/tinker": "^2.8",
-        "cooperl/laravel-db2": "^8.0",
+        "cooperl/laravel-ibmi": "^9.0.3",
       "ext-ibm_db2": "*"
     },
     "require-dev": {
